@@ -1,2 +1,2 @@
 print(hello)
-print(the
+print(the)
