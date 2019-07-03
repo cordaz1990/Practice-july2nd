@@ -1,1 +1,1 @@
-printh
+print(h
